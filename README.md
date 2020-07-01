@@ -1,5 +1,6 @@
 # employee-training-chatbot
-to make maintaining records of training programs which an employee has done or has yet to do, more convenient
+to make maintaining records of training programs which an employee has done or has yet to do, more convenient.
+
 Often employees need to complete several training programs in order to brush up their skills so that all employees are in an equal footing. Training programs can involve soft skills training, hard skills training or orientation as well which introduces new hires to the company ethics and culture. Our main objective here is to build a bot that will be personalised and can provide information to the user regarding the training programs the person has completed or has yet to complete, along with answering queries related to the training programs. To answer queries related to the training programs we need to get a database of information regarding these programs, as training programs can vary from one company to another. To understand the scope of the bot first we would like to present a possible conversation between the user and the bot.
 
 The details of the approach are as below,
